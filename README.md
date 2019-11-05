@@ -1,4 +1,4 @@
-# Google Books Serach
+# Google Books Search
 
 This project creates a React-based Google Books Search app that displays books based on user searches and saves books to review or purchase later. 
 
